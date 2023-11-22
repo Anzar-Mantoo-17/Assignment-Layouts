@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Layout 1</title>
+    <link rel="stylesheet" href="/side project/layout1.css" />
+  </head>
+  <body>
+    <header>
+      <h1>Logo</h1>
+    </header>
+    <nav>
+      <h1>Navigation</h1>
+    </nav>
+    <aside>
+      <h1>Side Bar</h1>
+    </aside>
+    <article>
+      <h1>Banner</h1>
+    </article>
+    <section>
+      <h1>Body Area</h1>
+    </section>
+  </body>
+  <footer>
+    <h1>Footer....</h1>
+  </footer>
+</html>
